@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 
+### I'm Elizabeth 👩🏻‍💻
+
+🌱 I am a full-stack web developer
+
+🔭 I’m currently working on helping others learn web development
+
+📫 reach me here: ElizabethSHindash@gmail.com
+
 
 <!--
 **dragon-stark/dragon-stark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
