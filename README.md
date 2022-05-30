@@ -1,10 +1,11 @@
 ### Hi there I'm Elizabeth 👩🏻‍💻
  
 
-🌱 I am a full-stack web developer
+- 🌱 I am a full-stack web developer
 
-🔭 I’m currently helping others learn web development
+- 🔭 I’m supporting and helping teach future web developers!
 
+- 🤔 I’m currently working on refactoring my projects to speed up the development process
 
 [![Dragon-Stark's GitHub stats](https://github-readme-stats.vercel.app/api?username=dragon-stark&include_all_commits&count_private=true&hide=issues,contribs&theme=outrun&show_icons=true&include_all_commits)](https://github.com/dragon-stark/READMEStat)
 
