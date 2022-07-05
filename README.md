@@ -1,7 +1,7 @@
 ### Hi there I'm Elizabeth 👩🏻‍💻
  
 
-- 🌱 I am a full-stack web developer
+- 🌱 I am a full-stack Software Developer
 
 - 🔭 I’m supporting and helping teach future web developers!
 
