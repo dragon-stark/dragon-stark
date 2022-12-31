@@ -11,7 +11,7 @@
 
 📫 reach me here : ElizabethSHindash@gmail.com
 
-📻 Find me here : <a href="[https://dev.to/dragonstark]" target="_blank">Dev.to</a>
+📻 Find me here : <a href="https://dev.to/dragonstark" target="_blank">Dev.to</a>
 
 
 
