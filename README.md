@@ -3,7 +3,7 @@
 
 - 🌱 I am a full-stack Software Developer
 
-- 🔭 I’m currently supporting & helping teach future web developers!
+
 
 - 🤔 I’m constantly working on refactoring my projects to speed up the development process
 
