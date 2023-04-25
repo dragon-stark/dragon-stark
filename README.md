@@ -1,13 +1,13 @@
 ### Hi there I'm Elizabeth 👩🏻‍💻
  
 
-- 🌱 I am a full-stack Software Developer
+- 👩🏻‍💻 I am a full-stack Software Developer
 
 - 🔭 I’m currently supporting & helping teach future web developers!
 
-- 👩‍💻 Skills: Node.js, Express, MongoDB, RESTful APIs, Mongoose, React, jQuery, CLI usage, data structure, MySQL, Salesforce, Test Driven Development, Quality Assurance, Visualforce, HTML, CSS, Lightning Web Components, Javascript
+- ⚡️ Skills: Node.js, Express, MongoDB, RESTful APIs, Mongoose, React, jQuery, CLI usage, data structure, MySQL, Salesforce, Test Driven Development, Quality Assurance, Visualforce, HTML, CSS, Lightning Web Components, Javascript
 
-- 🤔 I’m constantly working on refactoring my projects to speed up the development process
+- 🌱 I’m constantly working on refactoring my projects to speed up the development process
 
 <!-- [![Dragon-Stark's GitHub stats](https://github-readme-stats.vercel.app/api?username=dragon-stark&include_all_commits&count_private=true&hide=issues,contribs&theme=outrun&show_icons=true&include_all_commits)](https://github.com/dragon-stark/READMEStat) -->
 
