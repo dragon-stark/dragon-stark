@@ -1,11 +1,11 @@
 ### Hi there I'm Elizabeth 👩🏻‍💻
  
 
-- 👩🏻‍💻 I am a full-stack Software Developer
+- 👩🏻‍💻 I am a full-stack Software Developer and 3x Salesforce certified
 
 - 🔭 I’m currently supporting & helping teach future web developers!
 
-- ⚡️ Skills: Node.js, Express, MongoDB, RESTful APIs, Mongoose, React, jQuery, CLI usage, data structure, MySQL, Salesforce, Test Driven Development, Quality Assurance, Visualforce, HTML, CSS, Lightning Web Components, Javascript
+- ⚡️ Skills: Node.js, Express, MongoDB, RESTful APIs, Mongoose, React, jQuery, CLI usage, data structure, MySQL, Salesforce, Test Driven Development, Quality Assurance, Visualforce, HTML, CSS, Lightning Web Components, Javascript, Continuious Integration
 
 - 🌱 I’m constantly working on refactoring my projects to speed up the development process
 
