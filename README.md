@@ -1,11 +1,11 @@
-### Hi there I'm Elizabeth 👩🏻‍💻
+### Hi there, I'm Elizabeth 👩🏻‍💻
  
 
 - 👩🏻‍💻 I am a full-stack Software Developer and 3x Salesforce certified
 
 - 🔭 I’m currently supporting & helping teach future web developers!
 
-- ⚡️ Skills: Node.js, Express, MongoDB, RESTful APIs, Mongoose, React, jQuery, CLI usage, data structure, MySQL, Salesforce, Test Driven Development, Quality Assurance, Visualforce, HTML, CSS, Lightning Web Components, Javascript, Continuious Integration
+- ⚡️ Skills: Node.js, Express, MongoDB, RESTful APIs, Mongoose, React, jQuery, CLI usage, data structure, MySQL, Salesforce, Test Driven Development, Quality Assurance, Visualforce, HTML, CSS, Lightning Web Components, JavaScript, Continuous Integration
 
 - 🌱 I’m constantly working on refactoring my projects to speed up the development process
 
@@ -14,7 +14,7 @@
 
 📻 Find me here : <a href="https://dev.to/dragonstark" target="_blank">Dev.to</a>
 
-📫 reach me here : ElizabethSHindash@gmail.com
+📫 reach me here: [**Email**](mailto:ElizabethSHindash@gmail.com)
 
 
 
