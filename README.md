@@ -1,7 +1,7 @@
 ### Hi there, I'm Elizabeth 👩🏻‍💻
  
 
-- 👩🏻‍💻 I am a full-stack Software Developer and 3x Salesforce certified
+- 👩🏻‍💻 I plan, launch, and iterate products that solve real user problems. Full-stack dev, 3× Salesforce certified. I lead roadmaps, delivery, and cross-team execution while staying technical enough to spec clean tickets, review PRs, and unblock engineers.
 
 - 🔭 I’m currently supporting & helping teach future web developers!
 
